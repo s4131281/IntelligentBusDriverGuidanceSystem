@@ -38,3 +38,16 @@ The project includes:
 * Wrote 5 integration tests each for Driver and Bus operations using real JSON file persistence.
 * Documented all test cases in the Test Case Table.
 * Configured Maven project with JUnit 5 and implemented JSON-based data storage.
+
+## My Contributions – s4178346 
+* Developed User Stories 5–8 for the Intelligent Bus Driver Guidance System following the format taught in Week 8.
+* Wrote 12 acceptance criteria (3 acceptance criteria for each user story) using clear and testable conditions.
+* Ensured all user stories aligned with the system requirements, including:
+    * Stop approach alerts
+    * Route deviation detection and rerouting
+    * Hazard and delay reporting
+    * Trip event logging and stop confirmations
+* Reviewed the user stories and acceptance criteria to ensure consistency, completeness, and traceability to system requirements.
+* Collaborated with team members to ensure there was no overlap between User Stories 1–4 and User Stories 5–8.
+* Participated in group discussions and reviews of the requirements for the Intelligent Bus Driver Guidance System.
+* Assisted in validating that the acceptance criteria were measurable, realistic, and suitable for future testing activities.
