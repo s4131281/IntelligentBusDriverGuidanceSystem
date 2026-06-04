@@ -30,7 +30,7 @@ The project includes:
 * Reviewed the Activity 1 test case plan and suggested corrections for test case consistency, validation rules, and expected/actual results.
 * Provided feedback to improve the implementation logic for driver and bus conditions before final submission.
 * Me and my team members together did  User Story and Acceptance Criteria
-* Participated in discussions
+* Participated in discussions for assignment.
 
 ## My Contributions s4192792
 * Implemented the core classes: Driver, Bus, DriverRepository, and BusRepository with full functionality.
