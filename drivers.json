@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "driverID": "27@#12ABCD",
+    "name": "John Doe",
+    "experienceYears": 5,
+    "licenseType": "Heavy",
+    "address": "12|Main Street|Melbourne|VIC|Australia",
+    "birthdate": "15-08-1998"
+  }
+]
