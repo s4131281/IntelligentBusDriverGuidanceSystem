@@ -23,12 +23,14 @@ The project includes:
 
 ## My Contribution s4131281
 
+* Helped in developing unit test and integration.
 * Uploaded the Maven Java project to GitHub.
 * Added the GitHub Actions workflow file for automatic Maven test execution.
 * Verified that the GitHub Actions workflow runs successfully.
 * Reviewed the Activity 1 test case plan and suggested corrections for test case consistency, validation rules, and expected/actual results.
 * Provided feedback to improve the implementation logic for driver and bus conditions before final submission.
-* Me and my team members together did  User Story and Acceptance Criteria 
+* Me and my team members together did  User Story and Acceptance Criteria
+* Participated in discussions
 
 ## My Contributions s4192792
 * Implemented the core classes: Driver, Bus, DriverRepository, and BusRepository with full functionality.
